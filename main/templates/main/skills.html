@@ -1,0 +1,42 @@
+{% extends 'main/base.html' %}
+{% load static %}
+
+{% block title %}Skills - Elkdev72 Portfolio{% endblock %}
+
+{% block content %}
+<section class="section">
+  <div class="skills-container">
+    <h1 class="section-title">My Skills</h1>
+    <div class="skills-categories">
+      {% regroup skills by category as skill_categories %}
+      {% for category in skill_categories %}
+        <div class="skill-category">
+          <h2 class="category-title">{{ category.grouper }}</h2>
+          <div class="skills-grid">
+            {% for skill in category.list %}
+              <div class="skill-card">
+                <div class="skill-icon">
+                  {% if skill.icon %}
+                    <img src="{{ skill.icon.url }}" alt="{{ skill.name }} icon">
+                  {% endif %}
+                </div>
+                <div class="skill-info">
+                  <h3 class="skill-name">{{ skill.name }}</h3>
+                  <div class="skill-level">
+                    <div class="progress-bar">
+                      <div class="progress" style="width: {{ skill.proficiency }}%"></div>
+                    </div>
+                    <span class="proficiency-label">{{ skill.proficiency }}%</span>
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% empty %}
+        <p class="no-skills">No skills available at the moment.</p>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %} 
