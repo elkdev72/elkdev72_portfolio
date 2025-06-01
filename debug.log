@@ -1,0 +1,24 @@
+INFO 2025-05-31 14:02:08,848 autoreload Watching for file changes with StatReloader
+DEBUG 2025-05-31 14:02:10,278 views Email Settings: HOST=smtp.gmail.com, PORT=587, USER=elijahkanyia.developer@gmail.com, ADMIN=your-notification-email@example.com, TLS=True
+DEBUG 2025-05-31 14:02:10,278 views Email Context: {'name': 'Conan Rivers', 'email': 'lohiv@mailinator.com', 'message': 'Sunt irure esse mod', 'date': 'May 31, 2025 14:02:10'}
+DEBUG 2025-05-31 14:02:10,285 views Email templates rendered successfully
+DEBUG 2025-05-31 14:02:14,491 views Email sent successfully
+DEBUG 2025-05-31 14:04:12,316 views Email Settings: HOST=smtp.gmail.com, PORT=587, USER=elijahkanyia.developer@gmail.com, ADMIN=your-notification-email@example.com, TLS=True
+DEBUG 2025-05-31 14:04:12,321 views Email Context: {'name': 'Lawrence Langley', 'email': 'nurynofi@mailinator.com', 'message': 'Velit optio ipsum ', 'date': 'May 31, 2025 14:04:12'}
+DEBUG 2025-05-31 14:04:12,329 views Email templates rendered successfully
+DEBUG 2025-05-31 14:04:16,225 views Email sent successfully
+INFO 2025-05-31 14:07:01,567 autoreload Watching for file changes with StatReloader
+DEBUG 2025-05-31 14:07:24,351 views Email Settings: HOST=smtp.gmail.com, PORT=587, USER=elijahkanyia.developer@gmail.com, ADMIN=elijahkanyia72@gmail.com, TLS=True
+DEBUG 2025-05-31 14:07:24,352 views Email Context: {'name': 'Shellie Bush', 'email': 'gozuwogosu@mailinator.com', 'message': 'Officiis sed qui non', 'date': 'May 31, 2025 14:07:24'}
+DEBUG 2025-05-31 14:07:24,356 views Email templates rendered successfully
+DEBUG 2025-05-31 14:07:27,490 views Email sent successfully
+INFO 2025-05-31 14:11:19,255 autoreload /home/elkdev72/Desktop/elkdev72/softskills_projects/elkdev72_portfolio/main/views.py changed, reloading.
+INFO 2025-05-31 14:11:20,550 autoreload Watching for file changes with StatReloader
+INFO 2025-05-31 14:11:22,060 autoreload /home/elkdev72/Desktop/elkdev72/softskills_projects/elkdev72_portfolio/main/views.py changed, reloading.
+INFO 2025-05-31 14:11:22,798 autoreload Watching for file changes with StatReloader
+INFO 2025-05-31 14:11:59,323 autoreload /home/elkdev72/Desktop/elkdev72/softskills_projects/elkdev72_portfolio/elkdev72portfolio/settings.py changed, reloading.
+INFO 2025-05-31 14:11:59,853 autoreload Watching for file changes with StatReloader
+DEBUG 2025-05-31 14:12:27,102 views Email Settings: HOST=smtp.gmail.com, PORT=587, USER=elijahkanyia.developer@gmail.com, ADMIN=elijahkanyia72@gmail.com, TLS=True
+DEBUG 2025-05-31 14:12:27,103 views Email Context: {'name': 'Clayton Pratt', 'email': 'tubyz@mailinator.com', 'message': 'In vitae aliquid in ', 'date': 'May 31, 2025 14:12:27'}
+DEBUG 2025-05-31 14:12:27,105 views Email templates rendered successfully
+DEBUG 2025-05-31 14:12:30,051 views Email sent successfully
