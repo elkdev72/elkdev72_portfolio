@@ -22,3 +22,4 @@ DEBUG 2025-05-31 14:12:27,102 views Email Settings: HOST=smtp.gmail.com, PORT=58
 DEBUG 2025-05-31 14:12:27,103 views Email Context: {'name': 'Clayton Pratt', 'email': 'tubyz@mailinator.com', 'message': 'In vitae aliquid in ', 'date': 'May 31, 2025 14:12:27'}
 DEBUG 2025-05-31 14:12:27,105 views Email templates rendered successfully
 DEBUG 2025-05-31 14:12:30,051 views Email sent successfully
+INFO 2025-06-05 20:54:09,005 autoreload Watching for file changes with StatReloader
