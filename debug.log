@@ -23,3 +23,8 @@ DEBUG 2025-05-31 14:12:27,103 views Email Context: {'name': 'Clayton Pratt', 'em
 DEBUG 2025-05-31 14:12:27,105 views Email templates rendered successfully
 DEBUG 2025-05-31 14:12:30,051 views Email sent successfully
 INFO 2025-06-05 20:54:09,005 autoreload Watching for file changes with StatReloader
+INFO 2025-06-05 21:02:49,935 autoreload Watching for file changes with StatReloader
+WARNING 2025-06-05 21:04:04,919 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-06-05 21:04:14,361 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-06-05 21:04:58,298 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-06-05 21:04:58,908 log Not Found: /favicon.ico
