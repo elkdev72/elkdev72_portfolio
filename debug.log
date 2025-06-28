@@ -28,3 +28,4 @@ WARNING 2025-06-05 21:04:04,919 log Not Found: /.well-known/appspecific/com.chro
 WARNING 2025-06-05 21:04:14,361 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
 WARNING 2025-06-05 21:04:58,298 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
 WARNING 2025-06-05 21:04:58,908 log Not Found: /favicon.ico
+INFO 2025-06-28 20:16:58,888 autoreload Watching for file changes with StatReloader
